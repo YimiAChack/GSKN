@@ -1,6 +1,6 @@
 # GSKN: Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels
 
-The repository implements Graph Convolutional Kernel Networks (GCKNs) described in the following paper
+The repository implements GSKN described in the following paper
 > GSKN: Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels (WWW 2021, Research Track, Full Paper)
 
 For more details, please see our [Paper](https://arxiv.org/submit/3687651).
