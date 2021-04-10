@@ -6,7 +6,7 @@ The repository implements GSKN described in the following paper
 For more details, please see our [Paper](https://arxiv.org/submit/3687651).
 
 #### Installation
-We strongly recommend users to use miniconda to install the following packages (link to pytorch)
+We strongly recommend users to use miniconda to install the following packages
 
 ```
 python=3.6.2
