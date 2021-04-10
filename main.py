@@ -131,7 +131,7 @@ def main():
     input_size = data_loader.input_size
 
     print('Unsupervised training...')
-    model = GSKNetFeature(input_size, args.hidden_size, args.path_size, args.anonymous_walk_length,
+    model = GCKNetFeature(input_size, args.hidden_size, args.path_size, args.anonymous_walk_length,
                           kernel_args_list=args.sigma, pooling=args.pooling,
                           global_pooling=args.global_pooling,
                           aggregation=args.aggregation)
