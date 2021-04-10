@@ -3,7 +3,7 @@
 The repository implements GSKN described in the following paper
 > GSKN: Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels (WWW 2021, Research Track, Full Paper)
 
-For more details, please see our [Paper](https://arxiv.org/submit/3687651).
+For more details, please see our [Paper](https://arxiv.org/abs/2104.02995).
 
 #### Installation
 We strongly recommend users to use miniconda to install the following packages
